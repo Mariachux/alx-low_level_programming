@@ -20,13 +20,11 @@ Task 8-print_base16.c contains a C program that prints all the numbers of base 1
 
 Task 9-print_comb.c contains a C program that prints all possible combinations of single-digit numbers.
 
-Task 10-print_comb2.c contains a C program that prints the numbers from 00 to 99.
+Task 10-print_comb3.c contains a program that prints all possible different combinations of two digits.
 
-Task 11-print_comb3.c contains a program that prints all possible different combinations of two digits.
+Task 11-print_comb4.c contains a program that prints all possible different combinations of three digits.
 
-Task 12-print_comb4.c contains a program that prints all possible different combinations of three digits.
-
-Task 13-print_comb5.c contains a program that prints all possible combinations of two two-digit numbers.
+Task 12-print_comb5.c contains a program that prints all possible combinations of two two-digit numbers.
 
 
 
