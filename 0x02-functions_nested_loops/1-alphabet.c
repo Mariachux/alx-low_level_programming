@@ -2,8 +2,8 @@
 
 /**
  * main - check the code
- *  Return: Always 0.
- *  print_alphabet - prints the alphabets in lower case
+ * Return: Always 0.
+ * print_alphabet - prints the alphabets in lower case
  */
 
 void print_alphabet(void)
